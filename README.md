@@ -13,7 +13,7 @@ I'm currently diving deep into **Frontend Technologies**, including:
 - HTML5, CSS3, and JavaScript (of course 😄)
 - Frameworks like **React.js**
 - Tools like **Git**, **VS Code**, **Figma**, and **Tailwind CSS**
-- trying to being best version of my self
+- Trying to being best version of my self
 
 Next on my radar: mastering backend with **Node.js**, **Express**, and **MongoDB**!
 
