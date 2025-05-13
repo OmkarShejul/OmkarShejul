@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Omkar Shejul (@OmkarShejul05)
 
-Welcome to my GitHub space — where creativity meets code!
+Welcome to my GitHub space — where creativity meets code...!
 
 ## 👀 About Me
 
