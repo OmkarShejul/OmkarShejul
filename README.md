@@ -27,7 +27,7 @@ Want to collaborate or just say hi? Reach out!
 
 ## 😄 Pronouns
 
-You can call me **Omii** — it's short, friendly, and easy to remember!  
+You can call me **Omii** — it's short, friendly, and easy to remember....!  
 
 ## ⚡ Fun Fact
 
