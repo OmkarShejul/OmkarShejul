@@ -8,7 +8,7 @@ I'm passionate about building user-friendly and dynamic websites. My current foc
 
 ## 🌱 What I’m Learning
 
-I'm currently diving deep into **Frontend Technologies**, including:
+I'm currently diving deep into **Frontend Technologies**, including:-
 
 - HTML5, CSS3, and JavaScript (of course 😄)
 - Frameworks like **React.js**
