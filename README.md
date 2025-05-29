@@ -32,7 +32,3 @@ You can call me **Omii** — it's short, friendly, and easy to remember....!
 ## ⚡ Fun Fact
 
 I’m always curious about **weird, quirky, and unique things** — from random tech hacks to unexplored corners of the internet. If it's unusual, I probably love it. 🌀
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
