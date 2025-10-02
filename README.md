@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Omkar Shejul (@OmkarShejul05)
+# 👋 Hey there! I'm Omkar Shejul (@OmkarShejul)
 
 Welcome to my GitHub space — where creativity meets code...!
 
